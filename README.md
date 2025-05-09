@@ -2,12 +2,6 @@
 
 This project is an end-to-end data science and engineering solution using the [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). It includes a full pipeline from raw data ingestion to machine learning models and **system deployment**.
 
-
----
-
-## 📌 Project Structure
-
-
 ---
 
 ## 🚀 Key Features
