@@ -8,10 +8,11 @@ This project is an end-to-end data science and engineering solution using the [O
 
 Data source:
 - [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
+- [Seller Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 Data Schema:
-
+![Alt text](/image/image-1.png)
+![Alt text](/image/image.png)
 ---
 
 ## 🧪 Machine Learning Tasks
