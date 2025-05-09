@@ -4,18 +4,6 @@ This project is an end-to-end data science and engineering solution using the [O
 
 ---
 
-## 🚀 Key Features
-
-- ✅ Clean and process raw Olist data
-- 📊 Exploratory Data Analysis (EDA)
-- 🧠 Predictive modeling:
-  - Customer Lifetime Value (CLV) Prediction (Regression)
-- 🔁 Reproducible ETL & Feature Engineering pipeline
-- 🧱 Modular and production-ready code structure
-- 📦 (Optional) Deployment or dashboard monitoring
-
----
-
 ## 📂 Datasets 
 
 Data source:
@@ -35,7 +23,10 @@ Data Schema:
 - **Metrics**: RMSE, MAE, R²
 
 ---
+## 🧱 Machine Learning Design System
 
+
+---
 ## 🔧 Tech Stack
 
 - **Languages**: Python 3.x
