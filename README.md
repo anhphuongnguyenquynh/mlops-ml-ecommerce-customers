@@ -22,16 +22,13 @@ This project is an end-to-end data science and engineering solution using the [O
 
 ---
 
-## 📂 Datasets Used
+## 📂 Datasets 
 
-- `olist_customers_dataset.csv`
-- `olist_orders_dataset.csv`
-- `olist_order_items_dataset.csv`
-- `olist_order_payments_dataset.csv`
-- `olist_order_reviews_dataset.csv`
-- `olist_products_dataset.csv`
-- `olist_sellers_dataset.csv`
-- `product_category_name_translation.csv`
+Data source:
+- [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
+
+Data Schema:
 
 ---
 
@@ -63,7 +60,6 @@ This project is an end-to-end data science and engineering solution using the [O
 git clone https://github.com/yourusername/ecommerce-customer-analytics.git
 cd ecommerce-customer-analytics
 
- <updated later>
 
 
 
