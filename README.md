@@ -11,6 +11,7 @@ Data source:
 - [Seller Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 Data Schema:
+
 ![Alt text](/image/image-1.png)
 ![Alt text](/image/image.png)
 ---
@@ -34,8 +35,9 @@ Data Schema:
 - **ML Frameworks**: scikit-learn
 - **Data Processing**: pandas, numpy
 - **Visualization**: seaborn, matplotlib, plotly
-- **Pipeline & Scheduling**: Airflow / Prefect / custom Python script
-- **Environment**: Docker, virtualenv
+- **Database**: Postgres
+- **Pipeline & Scheduling**: Airflow / Spark
+- **Environment**: Docker
 
 ---
 
