@@ -27,7 +27,7 @@ Data Schema:
 ---
 ## 🧱 Machine Learning Design System
 
-
+![Alt text](/image/architecture_overview.png)
 ---
 ## 🔧 Tech Stack
 
