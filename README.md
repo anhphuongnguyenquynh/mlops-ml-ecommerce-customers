@@ -18,11 +18,17 @@ Data Schema:
 
 ## 🧪 Machine Learning Tasks
 
-### 1. 💰 Customer Lifetime Value Prediction
+### 1. 💰 Customer Segmentation based on Life Time Value 
+- **Goal**: Customer Segmenation based on user Life Time Value (LTV)
+- **Features**: historical recency (last active), frequency, and revenue
+- **Model**: KMeans
+- **Metrics**: 
+
+### 2. 💰 Customer Lifetime Value Prediction
 - **Goal**: Estimate future total value a customer will bring
 - **Features**: historical purchase amount, frequency, user recency
-- **Model**: XGBoost Regressor
-- **Metrics**: RMSE, MAE, R²
+- **Model**: KNN, Logistic Regression, Random Forest, Gradient Boosting, XGBoost
+- **Metrics**: 
 
 ---
 ## 🧱 Machine Learning Design System
