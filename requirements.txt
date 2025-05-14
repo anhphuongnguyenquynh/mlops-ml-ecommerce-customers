@@ -2,3 +2,10 @@
 pandas
 numpy
 psycopg2-binary
+apache-airflow-providers-apache-spark 
+apache-airflow-providers-amazon 
+scikit-learn
+matplotlib
+plotly
+nbformat
+ipykernel
