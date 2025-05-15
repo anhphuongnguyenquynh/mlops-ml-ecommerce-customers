@@ -10,10 +10,10 @@ Data source:
 - [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - [Seller Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
+
 Data Schema:
 
-![Alt text](/image/image-1.png)
-![Alt text](/image/image.png)
+![Alt text](/image/data_schema.png.png)
 ---
 
 ## 🧪 Machine Learning Tasks
