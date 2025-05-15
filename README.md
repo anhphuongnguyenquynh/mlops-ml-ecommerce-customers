@@ -13,7 +13,7 @@ Data source:
 
 Data Schema:
 
-![Alt text](/image/data_schema.png.png)
+![Alt text](/image/data_schema.png)
 ---
 
 ## 🧪 Machine Learning Tasks
